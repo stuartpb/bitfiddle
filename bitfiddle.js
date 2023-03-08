@@ -25,3 +25,5 @@ export const swizzle = (x, y) => {
 
   return swizzled;
 }
+
+export default {swizzle};
